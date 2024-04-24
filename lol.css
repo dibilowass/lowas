@@ -1,0 +1,16 @@
+.bg-roxo {
+    background-color: mediumpurple;
+    color: #ffffff;
+}
+
+.btn-roxo {
+    background-color: rgb(255, 255, 255);
+    color: rgb(86, 0, 156);
+    border: 1px solid rgb(92, 43, 191);
+}
+
+.btn-roxo:hover {
+    background-color: mediumpurple;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(92, 43, 191);
+}
